@@ -17,6 +17,7 @@ Repositori ini dibuat untuk keperluan praktikum mengenai **State Complexity Mana
 ## Struktur File
 
 ```text
+README.md
 state-complexity-management/
 ├── 01_boolean_explosion_insecure.py
 ├── 02_order_state_machine_secure.py
@@ -24,8 +25,7 @@ state-complexity-management/
 ├── 04_voucher_atomic_secure.py
 ├── 05_idempotency_key_demo.py
 ├── 06_snapshot_audit_trail.py
-├── 07_wallet_transfer_challenge.py
-└── README.md
+└── 07_wallet_transfer_challenge.py
 ```
 
 ## Penjelasan Singkat File
